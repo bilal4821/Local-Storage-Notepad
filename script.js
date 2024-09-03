@@ -1,25 +1,3 @@
-
-
-// document.getElementById("btn")
-
-
-
-
-// addEventListener("input", (e)=>{
-
-
-
-//     localStorage.getItem("text", e.target.value)
-
-
-//     localStorage.setItem ("text", e.target.value);
-    
-    
-
-
-
-// })
-
 document.addEventListener("DOMContentLoaded", () => {  
     var  textarea = document.getElementById("input");    
     var storageKey = "text";
