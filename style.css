@@ -1,0 +1,70 @@
+body{
+    
+    background-image: url("tech3.jpg");
+    /* font-size: 100px; */
+   
+}
+
+.first{
+    
+    background-color: ghostwhite;
+    border-radius: 50px;
+    width: 1200px;
+    margin-left: 200px;
+    margin-top: 200px;
+    border: 3px solid seagreen;
+    padding-left: 10px;
+    
+    
+    
+}
+
+.second{
+    
+    background-color: ghostwhite;
+    border-radius: 10px;
+    padding-top: 5px;
+    margin-left: 200px;
+    margin-top: 100px;
+    border: 3px solid seagreen;
+    width: 1200px;
+    padding-left: 10px;
+    height: 200px;
+
+    
+}
+
+
+
+textarea{
+    border: none;
+    outline: none; /* Optional: removes the outline when the element is focused */
+    resize: none;
+    background-color: transparent;
+    width: 1185px;
+    height: 170px;
+ } 
+    
+
+
+
+/* 
+.input-container {
+    /* display: flex; */
+    /* align-items: center;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    background-color: #fff;
+    padding: 10px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    width: 500px;
+}
+
+
+
+.input-container input {
+    border: none;
+    outline: none;
+    width: 100%;
+    font-size: 16px;
+} */ 
